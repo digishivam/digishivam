@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @digishivam
 - 👀 I’m interested in 2D Animation , Ui&UX Design etc.
-- 🌱 I’m currently learning C Programming & Data Structure Algorithms 
+- 🌱 I’m currently learning JavaScript Programming & Data Structure Algorithms 
 - 💞️ I’m looking to collaborate on Animation Project & UI&UX Design Project Comanpies.
 - 📫 How to reach me ....You can reach out me on given socail media link in my profile.
 - 😄 Pronouns: he/him/his 
