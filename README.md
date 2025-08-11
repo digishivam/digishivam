@@ -1,3 +1,4 @@
+👋 Hello there!
 - 👋 Hi, I’m @digishivam
 - 👀 I’m interested in 2D Animation , Ui&UX Design etc.
 - 🌱 I’m currently learning JavaScript Programming & Data Structure Algorithms 
